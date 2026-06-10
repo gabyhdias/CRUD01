@@ -15,3 +15,8 @@ background-color: #f3c5ff;     border-radius: 20px;
     justify-items: center;
     justify-self: center;
 }
+
+h1{
+ align-self: center;
+
+}
