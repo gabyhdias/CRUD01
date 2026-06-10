@@ -1,10 +1,17 @@
 body {
-    background-color: #a8c1f5; 
+    background-color: #fae4ff; 
     justify-content: center;
     align-items: center;
     padding: 20px;
 }
 
-a{
-    background-color: rgb(255, 111, 207);
+.a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: #f3c5ff;     border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    width: 600px;
+    height: 560px;
+    justify-items: center;
+    justify-self: center;
 }
