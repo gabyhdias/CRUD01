@@ -31,6 +31,7 @@
 
 </head>
 <body>
+    <div class="a"></div>
     <h1>Sistema de Login Simples</h1>
 
     <form method="POST">
@@ -50,6 +51,7 @@
         <br>
         <button type="submit">Entrar</button>
     </form>
+        </div>
 
 </body>
 </html>
